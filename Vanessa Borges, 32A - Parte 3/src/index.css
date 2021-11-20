@@ -1,0 +1,15 @@
+h5 {
+  margin: 1.6rem;
+}
+
+body {
+
+  background-color: #eee;
+
+}
+
+.rowc{
+	display:flex;
+	flex-direction:row;
+	align-items: center;
+}
